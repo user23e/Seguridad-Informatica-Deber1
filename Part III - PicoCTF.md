@@ -157,7 +157,7 @@ Tanto el Método A como el Método B producen el mismo resultado: el script de P
 picoCTF{adlibs}
 ```
 
-![flag picoCTF](Part%203/C3/screenshots/c3_flag.png)
+![flag picoCTF](Screenshots/c3_flag.png)
 
 Nota importante: El Método A y el Método B sirven tanto para Anahí como para Mateo. Ambos pudieron ejecutar los mismos métodos y obtener una misma flag porque trabajaron con la misma entrada/instancia (mismo ciphertext o mismo servicio). El proceso determinista devolvió la misma flag para ambos estudiantes y, por esa razón, solo se muestra un único screenshot.
 
@@ -311,7 +311,7 @@ picoCTF{99072996e6f7d397f6ea0128b4517c23}
 
 **Evidencia:** 
 
-![flag picoCTF](Part%203/EasyPeasy/screenshots/easypeasy.png)
+![flag picoCTF](Screenshots/easypeasy.png)
 
 
 
@@ -331,7 +331,7 @@ picoCTF{99072996e6f7d397f6ea0128b4517c23}
 
 **Evidencia:** 
 
-![flag picoCTF](Part%203/EasyPeasy/screenshots/easypeasy2.jpg)
+![flag picoCTF](Screenshots/easypeasy2.jpg)
 
 
 
@@ -446,7 +446,7 @@ Flag: picoCTF{et_tu?_07d5c0892c1438d2b32600e83dc2b0e5}
 
 **Evidencia:**
 
-![flag picoCTF](Part%203/NewCaesar/screenshots/newcaesar.png)
+![flag picoCTF](Screenshots/newcaesar.png)
 
 
 ### Caso Estudiante B
@@ -467,7 +467,8 @@ picoCTF{et_tu?_0797f143e2da9dd3e7555d7372ee1bbe}
 ```
 
 **Evidencia:**
-![flag picoCTF](Part%203/NewCaesar/screenshots/newcaesar2.jpg)
+
+![flag picoCTF](Screenshots/newcaesar2.jpg)
 
 
 ### Observaciones importantes
@@ -545,7 +546,7 @@ picoCTF{r0tat1on_d3crypt3d_4c71f5b0}
 picoCTF{r0tat1on_d3crypt3d_4c71f5b0}
 ```
 
-![flag picoCTF](Part%203/rotation/screenshots/rotation.png)
+![flag picoCTF](Screenshots/rotation.png)
 
 Nota importante: El Método A y el Método B sirven tanto para Anahí como para Mateo. Ambos pudieron ejecutar los mismos métodos y obtener una misma flag porque trabajaron con la misma entrada/instancia (mismo ciphertext o mismo servicio). El proceso determinista devolvió la misma flag para ambos estudiantes y, por esa razón, solo se muestra un único screenshot.
 
@@ -666,7 +667,7 @@ picoCTF{D0NT_US3_V1G3N3R3_C1PH3R_ae82272q}
 ```
 picoCTF{D0NT_US3_V1G3N3R3_C1PH3R_ae82272q}
 ```
-![flag picoCTF](Part%203/Vigenere/screenshots/vigenere.png)
+![flag picoCTF](Screenshots/vigenere.png)
 
 Nota importante: El Método A y el Método B sirven tanto para Anahí como para Mateo. Ambos pudieron ejecutar los mismos métodos y obtener una misma flag porque trabajaron con la misma entrada/instancia (mismo ciphertext o mismo servicio). El proceso determinista devolvió la misma flag para ambos estudiantes y, por esa razón, solo se muestra un único screenshot.
 ---
