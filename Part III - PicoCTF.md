@@ -159,7 +159,7 @@ picoCTF{adlibs}
 
 ![flag picoCTF](Screenshots/c3_flag.png)
 
-Nota importante: El Método A y el Método B sirven tanto para Anahí como para Mateo. Ambos pudieron ejecutar los mismos métodos y obtener una misma flag porque trabajaron con la misma entrada/instancia (mismo ciphertext o mismo servicio). El proceso determinista devolvió la misma flag para ambos estudiantes y, por esa razón, solo se muestra un único screenshot.
+**Nota importante:** El Método A y el Método B sirven tanto para Anahí como para Mateo. Ambos pudieron ejecutar los mismos métodos y obtener una misma flag porque trabajaron con la misma entrada/instancia (mismo ciphertext o mismo servicio). El proceso determinista devolvió la misma flag para ambos estudiantes y, por esa razón, solo se muestra un único screenshot.
 
 ---
 
@@ -548,7 +548,7 @@ picoCTF{r0tat1on_d3crypt3d_4c71f5b0}
 
 ![flag picoCTF](Screenshots/rotation.png)
 
-Nota importante: El Método A y el Método B sirven tanto para Anahí como para Mateo. Ambos pudieron ejecutar los mismos métodos y obtener una misma flag porque trabajaron con la misma entrada/instancia (mismo ciphertext o mismo servicio). El proceso determinista devolvió la misma flag para ambos estudiantes y, por esa razón, solo se muestra un único screenshot.
+**Nota importante:** El Método A y el Método B sirven tanto para Anahí como para Mateo. Ambos pudieron ejecutar los mismos métodos y obtener una misma flag porque trabajaron con la misma entrada/instancia (mismo ciphertext o mismo servicio). El proceso determinista devolvió la misma flag para ambos estudiantes y, por esa razón, solo se muestra un único screenshot.
 
 ---
 
@@ -669,7 +669,8 @@ picoCTF{D0NT_US3_V1G3N3R3_C1PH3R_ae82272q}
 ```
 ![flag picoCTF](Screenshots/vigenere.png)
 
-Nota importante: El Método A y el Método B sirven tanto para Anahí como para Mateo. Ambos pudieron ejecutar los mismos métodos y obtener una misma flag porque trabajaron con la misma entrada/instancia (mismo ciphertext o mismo servicio). El proceso determinista devolvió la misma flag para ambos estudiantes y, por esa razón, solo se muestra un único screenshot.
+**Nota importante:** El Método A y el Método B sirven tanto para Anahí como para Mateo. Ambos pudieron ejecutar los mismos métodos y obtener una misma flag porque trabajaron con la misma entrada/instancia (mismo ciphertext o mismo servicio). El proceso determinista devolvió la misma flag para ambos estudiantes y, por esa razón, solo se muestra un único screenshot.
+
 ---
 
 <a name="resumen"></a>
